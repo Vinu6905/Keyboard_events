@@ -1,0 +1,55 @@
+table {
+  border-collapse: collapse;
+  width: 100%; 
+}
+thead th {
+  text-align: center;
+}
+
+.user-details input[type="text"] {
+  
+  width: 100%;  
+ border-collapse: collapse;
+
+}
+button{
+  align-items: center;
+  margin: 10px;
+  border-radius: 5px; 
+}
+.second {
+  background-color: rgb(220,227,202)
+}
+.third{
+  border: 1px solid black;
+  background-color: rgb(220,227,202)
+ 
+ 
+}
+
+.third .row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.third .row label {
+  margin-right: 5px;
+  margin-left: 10px;
+
+}
+.third .row input,
+.third .row select {
+  margin-left: 5px;
+}
+.four{
+  border: 1px solid black;
+  height: 150px;
+}
+
+
+
+
+
+
+
+
